@@ -1,0 +1,14 @@
+* {
+    font-family: "Space Mono", sans-serif;
+}
+
+body > header{
+    background-color: dodgerblue;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+
+
